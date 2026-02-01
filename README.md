@@ -19,8 +19,8 @@ If your smoothed pitch stays below **-15°** (i.e., you're looking down) for **2
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/lock-in.git
-cd lock-in
+git clone https://github.com/abhi6241/lock-in-motivator.git
+cd lock-in-motivator
 ```
 
 Create and activate a virtual environment (use Python 3.9 or 3.10):
